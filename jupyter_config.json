@@ -1,5 +1,6 @@
 {
   "VoilaConfiguration": {
-    "theme": "dark"
+    "theme": "dark",
+    "template": "material"
   }
 }
