@@ -1,1 +1,0 @@
-web: voila --port=$PORT --no-browser --template=material --theme=dark --enable_nbextensions=True Spotle_Twitter_Data_DashBoard.ipynb    
