@@ -1,7 +1,5 @@
 # Covid-Tweets-Analysis-Dashboard
 
-Note: View the live notebook [here](https://covid-tweets.herokuapp.com/). This Voila deployment may fail sometimes due to memory error! Avoid changing the word cloud parameters as that can crash the notebook in cloud. No issues in local run!
-
 This was the analysis from my side. I have tried to analyze every feature present in the dataset that can give meaningful insight. Here are some of the concluding points which can be inferred from the charts:
 - Mondays and Fridays were the most stressful days as there was less activity as compared to other days meaning that even if the work was done via homes, the working population was round the clock. This can be proved by the fact that the maximum of tweets was made on Saturdays!
 - March's last one-week tweets were greater than April's 10 days. This implies that when a country-wide lockdown was imposed on the 24th Midnight, there was panic among people and it is evident from the number of tweets made this week.
@@ -11,3 +9,8 @@ This was the analysis from my side. I have tried to analyze every feature presen
 - The most tagged person in tweets was the prime minister of India, Narendra Modi. People may want to show their concerns and problems directly with him. Arvind Kejriwal and Amit Shah also made it to the list
 - Most of the people on Twitter positively took the lockdown and around 44% of tweets were positive.
 - As the maximum number of tweets were made on Saturday, there was a slight peak in the number of negative tweets on Saturdays
+
+# You can view the live notebook here:
+- [Heroku Deployment](https://covid-tweets.herokuapp.com/). This Voila deployment may fail sometimes due to memory error! Avoid changing the word cloud parameters as that can crash the notebook in cloud. 
+
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaustubhgupta/Covid-Tweets-Analysis-Dashboard/main?urlpath=voila%2Frender%2FSpotle_Twitter_Data_DashBoard.ipynb) This works like breeze!
