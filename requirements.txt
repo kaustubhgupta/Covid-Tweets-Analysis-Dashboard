@@ -1,0 +1,10 @@
+ipywidgets
+textblob
+wordcloud
+nltk
+numpy
+pandas
+matplotlib
+plotly
+voila
+voila-material
