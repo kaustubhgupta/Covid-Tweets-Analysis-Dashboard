@@ -12,7 +12,13 @@ This was the analysis from my side. I have tried to analyze every feature presen
 - Most of the people on Twitter positively took the lockdown and around 44% of tweets were positive.
 - As the maximum number of tweets were made on Saturday, there was a slight peak in the number of negative tweets on Saturdays
 
-# You can view the live notebook here:
-- ~[Heroku Deployment](https://covid-tweets.herokuapp.com/). This Voila deployment may fail sometimes due to memory error! Avoid changing the word cloud parameters as that can crash the notebook in cloud.~ Heroku deployment has been discontinued
+## Live Notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaustubhgupta/Covid-Tweets-Analysis-Dashboard/main?urlpath=voila%2Frender%2FSpotle_Twitter_Data_DashBoard.ipynb)
 
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kaustubhgupta/Covid-Tweets-Analysis-Dashboard/main?urlpath=voila%2Frender%2FSpotle_Twitter_Data_DashBoard.ipynb) This works like breeze!
+## Related Article
+
+[Creating Interactive Jupyter Notebooks and Deployment on Heroku Using Voila](https://towardsdatascience.com/creating-interactive-jupyter-notebooks-and-deployment-on-heroku-using-voila-aa1c115981ca) (Towards Data Science)
+
+## Preview
+
+![preview](preview.gif)
